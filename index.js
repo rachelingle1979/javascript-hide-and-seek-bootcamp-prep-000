@@ -19,6 +19,13 @@ function increaseRankBy(n){
   return list;
 }
 
+//function called deepest child
+//pulls out the most deeply nested child
+//id div #grand-node
+//looks along one parent-child branch, no siblings
+
+
+
 
 
 
